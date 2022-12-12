@@ -1,0 +1,28 @@
+{
+  "projectVersion": 1,
+  "files": [
+    "C:\\Users\\Lenovo\\Downloads\\Hayya.apk"
+  ],
+  "treeExpansions": [
+    [
+      "android.support",
+      "Source code",
+      "Hayya.apk"
+    ],
+    [
+      "customtabs",
+      "android.support",
+      "Source code",
+      "Hayya.apk"
+    ]
+  ],
+  "codeData": {
+    "comments": [],
+    "renames": []
+  },
+  "openTabs": [],
+  "activeTab": -1,
+  "cacheDir": "C:\\Users\\Lenovo\\Downloads\\Hayya.apk.cache",
+  "enableLiveReload": false,
+  "searchHistory": []
+}
